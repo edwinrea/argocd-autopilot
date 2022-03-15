@@ -1,1 +1,0 @@
-{"appName":"demoapp","userGivenName":"demoapp","destNamespace":"default","destServer":"https://34.134.163.180","srcPath":"apps/demoapp/overlays/staging","srcRepoURL":"https://github.com/edwinrea/argocd-autopilot.git","srcTargetRevision":"","labels":null}
