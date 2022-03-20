@@ -1,0 +1,1 @@
+{"appName":"odoo-siged","userGivenName":"odoo-siged","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"ephemeral","srcRepoURL":"https://github.com/cloudflavor/odoo-k8s.git","srcTargetRevision":"","labels":null,"exclude":"","include":""}
