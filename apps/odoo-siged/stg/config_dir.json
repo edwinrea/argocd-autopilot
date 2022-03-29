@@ -1,0 +1,1 @@
+{"appName":"odoo-siged","userGivenName":"odoo-siged","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"tree/main/odoo/stg","srcRepoURL":"https://github.com/edwinrea/odoo_manifest.git","srcTargetRevision":"","labels":null,"exclude":"","include":""}
