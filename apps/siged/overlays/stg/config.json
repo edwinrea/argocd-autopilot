@@ -1,1 +1,0 @@
-{"appName":"siged","userGivenName":"siged","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/siged/overlays/stg","srcRepoURL":"https://github.com/edwinrea/argocd-autopilot.git","srcTargetRevision":"","labels":null}
