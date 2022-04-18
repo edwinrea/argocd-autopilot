@@ -1,0 +1,1 @@
+{"appName":"siged-dos","userGivenName":"siged-dos","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/siged-dos/overlays/stg","srcRepoURL":"https://github.com/edwinrea/argocd-autopilot.git","srcTargetRevision":"","labels":null}
